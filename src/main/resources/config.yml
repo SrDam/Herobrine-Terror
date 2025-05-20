@@ -1,0 +1,30 @@
+#This is the log of players who have Herobrine's disappearances disabled
+jugadores-desactivados:
+- notch
+
+#Here you can customize the worlds where Herobrine will appear (if they are not on this list, Herobrine will not appear). Default worlds where he appears: world, world_nether, 
+mundos-habilitados:
+- world
+- world_nether
+- world_the_end
+
+#Here you can customize the probability with which Herobrine will appear to players. (0.3 = 30%)
+probabilidad-aparicion: 0.3
+
+#Here you can customize how many minutes Herobrine will attempt to appear to users (Default: 3 minutes).
+tiempo-entre-apariciones-minutos: 3
+
+#Here you can indicate the skin that Herobrine will use (remember to assign the name of a premium user, by default the Herobrine skin that is used is that of the user: noaarc:
+skin-name: noaarc
+
+#Here you can change the messages used by the Herobrine plugin.
+mensajes:
+  presencia: "ꜱɪᴇɴᴛᴇꜱ ᴜɴᴀ ᴘʀᴇꜱᴇɴᴄɪᴀ ᴍᴀʟɪɢɴᴀ, ᴍɪʀᴀ ᴀ ᴛᴜ ᴇꜱᴘᴀʟᴅᴀ ꜱɪ ᴛᴇ ᴀᴛʀᴇᴠᴇꜱ...."
+  scare: "ʜᴇʀᴏʙʀɪɴᴇ: ᴛᴜ ɴᴏ ᴠɪꜱᴛᴇ ɴᴀᴅᴀ"
+  test-lanzado: "Herobrine test lanzado para "
+  jugador-no-encontrado: "Jugador no encontrado."
+  activado: "Herobrine activado para "
+  desactivado: "Herobrine desactivado para "
+  reload: "Configuración de Herobrine recargada."
+
+

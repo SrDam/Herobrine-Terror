@@ -1,0 +1,12 @@
+name: HerobrineTerror
+main: com.srdam.herobrineterror.HerobrineTerror
+version: 1.0
+author: SrDam
+api-version: 1.21
+depend: [Citizens, SkinsRestorer]
+
+commands:
+  herobrine:
+    description: Comandos de control de Herobrine
+    usage: /herobrine <test|active|desactive|reload> <jugador>
+    permission: herobrine.admin
